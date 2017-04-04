@@ -73,7 +73,7 @@ The ``gamification/settings.py`` file contains installation-specific settings. T
         % mkdir -p ~/pyenv
         % virtualenv --no-site-packages ~/pyenv/gamification
         % source ~/pyenv/gamification/bin/activate
-        % git clone https://github.com/ngageoint/gamification-server
+        % git clone https://github.com/Kytoh/gamification-server
 
 3. Create the database and sync dependencies and data
 
